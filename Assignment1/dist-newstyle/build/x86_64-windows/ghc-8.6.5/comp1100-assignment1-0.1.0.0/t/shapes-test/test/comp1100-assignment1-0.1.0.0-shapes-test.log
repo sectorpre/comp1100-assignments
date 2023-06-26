@@ -1,0 +1,30 @@
+Test suite shapes-test: RUNNING...
+PASS: LineTool
+PASS: PolygonTool
+PASS: CircleTool
+PASS: TriangleTool
+PASS: RectangleTool
+PASS: EllipseTool
+PASS: Black -> Pink
+PASS: Pink -> Red
+PASS: Red -> Orange
+PASS: Orange -> Brown
+PASS: Brown -> Green
+PASS: Green -> Blue
+PASS: Blue -> White
+PASS: White -> Black
+PASS: Line -> Polygon
+PASS: Polygon -> Rectangle
+PASS: Rectangle -> Circle
+PASS: Circle -> Triangle
+PASS: Triangle -> Ellipse
+PASS: Ellipse -> Line
+PASS: Line (in use) -> Line
+PASS: Polygon (in use) -> Polygon
+PASS: Circle (in use) -> Circle
+PASS: Triangle (in use) -> Triangle
+PASS: Ellipse (in use) -> Ellipse (1)
+PASS: Ellipse (in use) -> Ellipse (2)
+PASS: Rectangle (in use) -> Rectangle
+Test suite shapes-test: PASS
+Test suite logged to: C:\Users\bleac\Desktop\comp1100\Assignment1\dist-newstyle\build\x86_64-windows\ghc-8.6.5\comp1100-assignment1-0.1.0.0\t\shapes-test\test\comp1100-assignment1-0.1.0.0-shapes-test.log
